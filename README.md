@@ -1,5 +1,5 @@
 Our Engineering Workshop Semester Project consisted of us firstly selecting a team member to do the project with and then either selecting a hardware based project or a software based project. 
-Me (Raja Muhammad Zarrar 25I-6586) and me team member (Muhammad Talha 25I-6608) elected to go for a hardware based project.
+Me (Raja Muhammad Zarrar 25I-6586) and my team member (Muhammad Talha 25I-6608) elected to go for a hardware based project.
 We were instructed to use github and add all our work here with our instructor (Sir Hazrat Ali) as our collborator.
 Our Project:
 Manual parking gate systems require human supervision and are prone to safety issues, such as the gate closing while a vehicle is still present. 
